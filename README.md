@@ -1,2 +1,2 @@
 # hello-world
-# Hello from lininfo24
+# hello from lininfo24
